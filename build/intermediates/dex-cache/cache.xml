@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m5-assignment-birthday-probability-skeleton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m5-assignment-birthday-probability-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b6eabbef7b9360868d50021c1ad2918cb01d6872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m5-assignment-birthday-probability-skeleton/app/libs/mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m5-assignment-birthday-probability-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/2/mobilecloud.handin-1.0.0_02974785f56a8e195392e3c77c056dedc0b283db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m5-assignment-birthday-probability-skeleton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2487b33811718c90e36aceaaa21584e5c50ea8ad">
+        <dex dex="/home/anuj/AndroidStudioProjects/_62aad97bbb5d039d71e28be6eccd1667_m5-assignment-birthday-probability-skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47122f3ab51ca7696862bfe06462f5d4a8cfd314/classes.dex" />
+    </item>
+
+</items>
